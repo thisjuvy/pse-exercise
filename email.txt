@@ -1,5 +1,0 @@
-Hi Tony,
-
-Great to hear you are starting the implementation of our event monitoring APIs! I'd be happy to help. Below you will find the github repo where the scripts can be found along with a detailed readme. Let me know if you have any questions!
-
--Tino
