@@ -5,7 +5,7 @@ This repo contains the scripts for the Box Platform Programming Exercise v2.0
 This repo contains two subfolders:
 `node-example` and `python-example`
 
-Simply follow along with the solution of choice by completeing the cooresponding sections (e.g node)
+Simply follow along with the solution of choice by completing the corresponding sections (e.g node)
 
 ## Prerequisites
 
