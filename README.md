@@ -46,4 +46,4 @@ Prior to running the script, you will need to provide a valid Access Token (Deve
 
 ### python
 - `cd ~/pse-excercise/python-example`
-- `python3 index`
+- `python3 index.py`
