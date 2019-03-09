@@ -1,0 +1,20 @@
+{
+  "name": "lp-pse-excercise",
+  "version": "1.0.0",
+  "description": "long polling pse excercise",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juvyinparallel/pse-exercise"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "author": "Tino Mejia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juvyinparallel/pse-exercise/issues"
+  },
+  "homepage": "https://github.com/juvyinparallel/pse-exercise#readme"
+}
